@@ -1,11 +1,7 @@
-matplotlib
-pandas
 streamlit
+pandas
+matplotlib
+seaborn
+numpy
 opencv-python
 Pillow
-seaborn
-io
-numpy
-re 
-string
-collections
