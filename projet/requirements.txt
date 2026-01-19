@@ -3,3 +3,9 @@ pandas
 streamlit
 opencv-python
 Pillow
+seaborn
+io
+numpy
+re 
+string
+collections
