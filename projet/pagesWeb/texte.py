@@ -79,6 +79,7 @@ Les raisins sont pratiques à manger mais pas exceptionnels 😐🍇"""
     tab1, tab2, tab3, tab4 = st.tabs(["🧹 Nettoyage & Prétraitement", "📊 Statistiques textuelles", "😊 Analyse de sentiment", "💾 Exporter"])
     
     # TAB 1 : NETTOYAGE & PRÉTRAITEMENT
+    
     with tab1:
 
         colA, colB = st.columns([1, 2])
