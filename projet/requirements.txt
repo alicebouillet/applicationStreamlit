@@ -1,3 +1,5 @@
 matplotlib
 pandas
 streamlit
+opencv-python
+Pillow
