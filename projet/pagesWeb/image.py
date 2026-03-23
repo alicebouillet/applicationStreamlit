@@ -4,13 +4,14 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
 import numpy as np
 import cv2
 from io import BytesIO
-def app():
-    # Configuration de la page
-    st.set_page_config(
+# Configuration de la page
+st.set_page_config(
         page_title="Projet Streamlit – Analyse d'Image",
         layout="wide",
         initial_sidebar_state="expanded"
     )
+def app():
+
 
     # Titre principal
     st.markdown(
