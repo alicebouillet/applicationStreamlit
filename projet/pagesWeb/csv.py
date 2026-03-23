@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 def app():
     # Configuration de la page
-    st.set_page_config(
+st.set_page_config(
         page_title="Projet Streamlit – Analyse CSV",
         layout="wide",
         initial_sidebar_state="expanded"
