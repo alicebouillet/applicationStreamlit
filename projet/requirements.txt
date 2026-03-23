@@ -4,6 +4,6 @@ Pillow
 matplotlib
 seaborn
 pandas>=2.2.3
-pyarrow>=15
-streamlit
+pyarrow==15.0.2
+streamlit>=1.30
 altair>=5
