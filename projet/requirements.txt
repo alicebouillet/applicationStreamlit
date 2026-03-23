@@ -2,6 +2,6 @@ numpy==1.26.4
 opencv-python-headless==4.8.1.78
 Pillow
 matplotlib
-pandas
-streamlit
+streamlit==1.30.0
+altair==4.2.2
 seaborn
