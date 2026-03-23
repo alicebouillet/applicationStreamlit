@@ -1,12 +1,12 @@
 import streamlit as st
-
-def app():
-    # Configuration de la page
+# Configuration de la page
     st.set_page_config(
         page_title="Projet Streamlit – Science de la donnée",
         layout="wide",
         initial_sidebar_state="expanded"
     )
+
+def app():
 
     # Titre principal
     st.markdown(
