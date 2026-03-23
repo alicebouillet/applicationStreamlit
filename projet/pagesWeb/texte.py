@@ -6,7 +6,7 @@ import string
 from collections import Counter
 from io import BytesIO
 # Configuration de la page
-    st.set_page_config(
+st.set_page_config(
         page_title="Projet Streamlit – Analyse de Texte",
         layout="wide",
         initial_sidebar_state="expanded"
